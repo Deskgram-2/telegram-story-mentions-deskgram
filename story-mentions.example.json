@@ -1,0 +1,12 @@
+{
+  "media_files": [
+    "story1.png",
+    "story2.mp4"
+  ],
+  "mentions": [
+    "@user_one",
+    "@user_two"
+  ],
+  "stories_per_account": 2,
+  "threads": 3
+}
