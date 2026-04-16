@@ -2,7 +2,14 @@
 
 Отметки в сторис в Deskgram 2 помогают публиковать Telegram-истории с медиа, подписью, ссылками и отметками пользователей. Модуль полезен для тех сценариев, где stories становятся отдельным каналом охвата, а не разовой ручной активностью с одного аккаунта.
 
-[Главный хаб Deskgram 2](https://github.com/Deskgram-2/deskgram-2-telegram-automation) · [Сайт](https://deskgram2.com/) · [Telegram-бот](https://t.me/DG2welcomebot) · [Web preview](https://deskgram2.com/web-preview)
+[Главный хаб Deskgram 2](https://github.com/Deskgram-2/deskgram-2-telegram-automation) · [Сайт](https://deskgram2.com/) · [Telegram-бот](https://t.me/DG2welcomebot) · [Web preview](https://deskgram2.com/web-preview)
+## Интерактивный Web Preview
+
+[![Interactive Demo](https://img.shields.io/badge/DEMO-Try_in_Browser-brightgreen?style=for-the-badge&logo=google-chrome)](https://deskgram2.com/app-demo/functions/story_mentions)
+
+Попробовать модуль в браузере: [Открыть веб-превью](https://deskgram2.com/app-demo/functions/story_mentions)
+
+
 
 ## Скриншоты
 
