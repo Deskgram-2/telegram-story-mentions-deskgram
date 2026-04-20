@@ -1,13 +1,13 @@
-# Отметки в сторис через Deskgram 2
+﻿# Отметки в сторис через Deskgram 2
 
 Отметки в сторис в Deskgram 2 помогают публиковать Telegram-истории с медиа, подписью, ссылками и отметками пользователей. Модуль полезен для тех сценариев, где stories становятся отдельным каналом охвата, а не разовой ручной активностью с одного аккаунта.
 
-[Главный хаб Deskgram 2](https://github.com/Deskgram-2/deskgram-2-telegram-automation) · [Сайт](https://deskgram2.com/) · [Telegram-бот](https://t.me/DG2welcomebot) · [Web preview](https://deskgram2.com/web-preview)
+[Главный хаб Deskgram 2](https://github.com/Deskgram-2/deskgram-2-telegram-automation) · [Сайт](https://deskgram2.com/) · [Telegram-бот](https://t.me/DG2welcomebot) · [Web preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2F&lang=ru)
 ## Интерактивный Web Preview
 
-[![Interactive Demo](https://img.shields.io/badge/DEMO-Try_in_Browser-brightgreen?style=for-the-badge&logo=google-chrome)](https://deskgram2.com/app-demo/functions/story_mentions)
+[![Interactive Demo](https://img.shields.io/badge/DEMO-Try_in_Browser-brightgreen?style=for-the-badge&logo=google-chrome)](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fstory_mentions&lang=ru)
 
-Попробовать модуль в браузере: [Открыть веб-превью](https://deskgram2.com/app-demo/functions/story_mentions)
+Попробовать модуль в браузере: [Открыть веб-превью](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fstory_mentions&lang=ru)
 
 
 
@@ -147,3 +147,4 @@ Preview перед запуском помогает быстрее провер
 ### Что обычно сильнее всего влияет на stories-сценарий?
 
 Качество медиа, уместность отметок, логика переходов по ссылкам и то, встроен ли stories-слой в более широкую social- или content-воронку.
+
