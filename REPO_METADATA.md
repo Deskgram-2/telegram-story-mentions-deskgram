@@ -1,11 +1,11 @@
 # Repo Metadata
 
-## Основное
+## 
 
 - proposed_repo: `telegram-story-mentions-deskgram`
 - language: `ru`
-- role: продуктовый гайд по публикации Telegram-сторис с отметками
-- primary_keyword: `отметки в сторис telegram`
+- role:     Telegram-  
+- primary_keyword: `   telegram`
 - secondary_keywords:
   - `telegram story mentions`
   - `stories with mentions`
@@ -14,7 +14,7 @@
 
 ## GitHub Description
 
-Отметки в сторис в Deskgram 2: загрузка медиа, подпись, ссылки, preview, список пользователей, статистика и Telegram story mentions.
+    Deskgram 2:  , , , preview,  ,   Telegram story mentions.
 
 ## Topics
 
